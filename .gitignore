@@ -234,11 +234,5 @@ celerybeat-schedule
 .dmypy.json
 dmypy.json
 
-# Ignore Clacky-specific files
-.1024*
-!.1024
-
-# Ignore breakpoints
-.breakpoints
 
 # End of https://www.gitignore.io/api/linux,macos,python,pycharm,windows,visualstudiocode
