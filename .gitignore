@@ -1,4 +1,9 @@
 
+# Clacky-specific configuration files
+.1024*
+!.1024
+.breakpoints
+
 # Created by https://www.gitignore.io/api/linux,macos,python,pycharm,windows,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=linux,macos,python,pycharm,windows,visualstudiocode
 
