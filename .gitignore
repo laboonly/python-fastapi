@@ -143,10 +143,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Clacky config files
-.1024*
-!.1024
-.breakpoints
 
 # Distribution / packaging
 .Python
