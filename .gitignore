@@ -238,3 +238,33 @@ dmypy.json
 
 
 # End of https://www.gitignore.io/api/linux,macos,python,pycharm,windows,visualstudiocode
+
+# Clacky-related configuration
+.clackyai/
+*.clacky
+.clacky/
+
+# Additional Python entries
+# Virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# FastAPI specific
+.pytest_cache/
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
